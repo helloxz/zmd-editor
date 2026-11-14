@@ -2,6 +2,10 @@
 
 适用于 WordPress 的 Markdown 编辑器，支持将图片上传到 [ImgURL图床](https://www.imgurl.org/) 。文章内容保存为原始 Markdown ，推荐搭配支持 Markdown 渲染的主题 [ztheme](https://github.com/helloxz/ztheme) 一起使用。
 
+![image.webp](https://p.uuu.ovh/2026/11/14/tIs0YNg9.webp)
+
+![image.webp](https://p.uuu.ovh/2026/11/14/UJN2F6DD.webp)
+
 > 备注：若 WordPress 主题不支持渲染 Markdown 内容，格式将无法正常显示！
 
 ## 功能与特点
