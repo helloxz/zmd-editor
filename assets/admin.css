@@ -1,0 +1,66 @@
+/**
+ * ZMD Editor — settings page styles.
+ */
+
+.zmd-settings .form-table th {
+	width: 220px;
+}
+
+.zmd-status {
+	display: inline-block;
+	margin-left: 8px;
+	font-size: 13px;
+	line-height: 1.5;
+}
+
+.zmd-settings .submit {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 8px;
+}
+
+.zmd-settings .submit .button {
+	height: 30px;
+	line-height: 28px;
+	padding: 0 12px;
+	margin: 0;
+	box-sizing: border-box;
+	vertical-align: middle;
+}
+
+.zmd-settings .submit .zmd-status {
+	margin-left: 0;
+}
+
+.zmd-status-success {
+	color: #00a32a;
+}
+
+.zmd-status-error {
+	color: #d63638;
+}
+
+.zmd-status-info {
+	color: #2271b1;
+}
+
+.zmd-info-table {
+	max-width: 760px;
+	margin-top: 8px;
+}
+
+.zmd-info-table td:first-child {
+	width: 220px;
+	font-weight: 600;
+}
+
+#zmd-album-id {
+	min-width: 220px;
+	margin-right: 8px;
+}
+
+#zmd-test-connection,
+#zmd-refresh-albums {
+	vertical-align: middle;
+}
